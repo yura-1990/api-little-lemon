@@ -1,0 +1,36 @@
+    
+USER NAMES
+Super user:
+    id : 1
+    username : otabek
+    password : lemonotabek!
+    authtoken : 3061f0fcfae47499fbd429df8ff2a6de86b6a4da
+
+    id : 2
+    username : admin
+    password : admin
+    authtoken : 8b1614a66df3230b142d364747b146966abbaf38
+
+
+
+Manager:
+    id : 3
+    username : Botir
+    password : lemonbotir!
+    authtoken :a360231de63c0093f21baf8b3279c183344d082a
+
+Delivery Crew:
+    id : 4
+    username : Samat
+    password : lemonsamat!
+    authtoken  : 41e6d6cf8de4bb0efe66da0f2ada3d204efa72c7
+
+
+Users:
+    id : 5
+    username : John
+    password : lemonjohn!
+    authtoken  : 41e6d6cf8de4bb0efe66da0f2ada3d204efa72c7
+   
+
+   
